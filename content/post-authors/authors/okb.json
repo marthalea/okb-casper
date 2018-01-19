@@ -1,0 +1,13 @@
+{
+  "id": "okb",
+  "name": "Oregon Knowledge Bank",
+  "image": "https://api.adorable.io/avatars/150/test.png",
+  "url": "http://okb.oregon.gov",
+  "location": "Salem, OR",
+  "bio": "About the OKB goes here.",
+  "socialUrls": [
+    "https://github.com/alexpichel/okb",
+    "https://twitter.com/ORKnowledgeBank",
+    "mailto:okb@oregon.gov"
+  ]
+}
