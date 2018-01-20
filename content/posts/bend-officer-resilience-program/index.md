@@ -2,7 +2,7 @@
 title: "Bend Officer Resilience Program"
 cover: "/logos/policing.png"
 author: "okb"
-date: "03/31/2016"
+date: 2016-03-31
 slug: "bend-officer-resilience"
 category: "Policing"
 tags:

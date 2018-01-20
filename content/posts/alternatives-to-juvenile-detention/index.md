@@ -2,7 +2,7 @@
 title: "Alternatives to Juvenile Detention"
 cover: "/logos/research.png"
 author: "okb"
-date: "02/08/2017"
+date: 2017-02-08
 slug: "alternatives-to-juvenile-detention"
 category: "Research"
 tags:

@@ -2,7 +2,7 @@
 title: "Beaverton Mountain Bike Team"
 cover: "/logos/policing.png"
 author: "okb"
-date: "12/17/2017"
+date: 2017-12-17
 slug: "mountain-bike-team"
 category: "Policing"
 tags:

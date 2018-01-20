@@ -2,7 +2,7 @@
 title: "Adult Sex Offender Program"
 cover: "/logos/correctional.png"
 author: "okb"
-date: "11/18/2015"
+date: "2015-11-18"
 slug: "adult-sex-offender-program"
 category: "Correctional"
 tags:

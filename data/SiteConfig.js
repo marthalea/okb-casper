@@ -6,29 +6,29 @@ module.exports = {
   siteTitleAlt: "OKB Public Safety Resources", // Alternative site title for SEO.
   siteLogo:
     "/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
-  siteUrl: "https://haysclark.github.io", // Domain of your website without pathPrefix.
+  siteUrl: "https://okb.netlify.com", // Domain of your website without pathPrefix.
   pathPrefix: "/", // Prefixes all links. For cases when deployed to example.github.io/gatsby-starter-casper/.
   siteDescription:
-    "A local criminal justice resource", // Website description used for RSS feeds/meta description tag.
+    "A local public safety resource", // Website description used for RSS feeds/meta description tag.
   siteCover:
-    "https://haysclark.github.io/gatsby-starter-casper/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
+    "/images/blog-cover.jpg", // Optional, the cover image used in header for home page. e.g: "/images/blog-cover.jpg",
   siteNavigation: true, // If navigation is enabled the Menu button will be visible
   siteRss: "/rss.xml", // Path to the RSS file.
-  siteRssAuthor: "Casper User", // The author name used in the RSS file
+  siteRssAuthor: "OKB", // The author name used in the RSS file
   // siteFBAppID: "1825356251115265", // optional, sets the FB Application ID for using app insights
-  sitePaginationLimit: 10, // The max number of posts per page.
-  googleAnalyticsID: "UA-111982167-1", // GA tracking ID.
+  sitePaginationLimit: 25, // The max number of posts per page.
+  googleAnalyticsID: "", // GA tracking ID.
   siteSocialUrls: [
-    "https://github.com/haysclark/gatsby-starter-casper",
-    "https://twitter.com/gatsbyjs",
-    "mailto:gatsbyjs@example.com"
+    "https://github.com/alexpichel/okb-casper",
+    "https://twitter.com/ORKnowledgeBank",
+    "mailto:okb@oregon.gov"
   ],
   postDefaultCategoryID: "Policing", // Default category for posts.
   // Links to social profiles/projects you want to display in the navigation bar.
   userLinks: [
     {
       label: "GitHub",
-      url: "https://github.com/haysclark/gatsby-starter-casper",
+      url: "https://github.com/alexpichel/okb-casper",
       iconClassName: "fa fa-github" // Disabled, see Navigation.jsx
     },
     {

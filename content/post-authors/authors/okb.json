@@ -1,10 +1,10 @@
 {
   "id": "okb",
   "name": "Oregon Knowledge Bank",
-  "image": "https://api.adorable.io/avatars/150/test.png",
+  "image": "/logos/logo-192.png",
   "url": "http://okb.oregon.gov",
-  "location": "Salem, OR",
-  "bio": "About the OKB goes here.",
+  "location": "Oregon",
+  "bio": "The Oregon Knowledge Bank (OKB) is a resource for and created by the public safety community in Oregon. The OKB focuses on Oregon: its innovative policing, corrections, and community supervision programs; research conducted on criminal justice initiatives here; and public safety agency profiles.",
   "socialUrls": [
     "https://github.com/alexpichel/okb",
     "https://twitter.com/ORKnowledgeBank",

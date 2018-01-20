@@ -2,7 +2,7 @@
 title: "Bend Community Response Team"
 cover: "/logos/policing.png"
 author: "okb"
-date: "03/30/2016"
+date: 2016-03-30
 slug: "bend-community-response-team"
 category: "Policing"
 tags:
