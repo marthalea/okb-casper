@@ -3,7 +3,7 @@ module.exports = {
   blogAuthorDir: "post-authors", // The name of directory that contains your authors.
   blogAuthorId: "okb", // The default and fallback author ID used for blog posts without a defined author.
   siteTitle: "Oregon Knowledge Bank", // Site title.
-  siteTitleAlt: "OKB Public Safety Resources", // Alternative site title for SEO.
+  siteTitleAlt: "OKB Public Safety Resource", // Alternative site title for SEO.
   siteLogo:
     "/logos/logo-1024.png", // Logo used for SEO and manifest. e.g. "/logos/logo-1024.png",
   siteUrl: "https://okb.netlify.com", // Domain of your website without pathPrefix.
