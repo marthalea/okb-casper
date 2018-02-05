@@ -3,10 +3,13 @@
   "name": "Oregon Knowledge Bank",
   "image": "/logos/logo-192.png",
   "url": "http://okb.oregon.gov",
-  "location": "Oregon",
+  "officers": "13",
+  "population": "13",
+  "chief": "Mike Schmidt",
+  "location": "Salem",
   "bio": "The Oregon Knowledge Bank (OKB) is a resource for and created by the public safety community in Oregon. The OKB focuses on Oregon: its innovative policing, corrections, and community supervision programs; research conducted on criminal justice initiatives here; and public safety agency profiles.",
   "socialUrls": [
-    "https://github.com/alexpichel/okb",
+    "https://www.facebook.com/oregonknowledgebank",
     "https://twitter.com/ORKnowledgeBank",
     "mailto:okb@oregon.gov"
   ]
